@@ -1,0 +1,11 @@
+C:\Users\necip\VisualStudioProjeler\AsalKontrol\AsalKontrol\bin\Debug\AsalKontrol.exe.config
+C:\Users\necip\VisualStudioProjeler\AsalKontrol\AsalKontrol\bin\Debug\AsalKontrol.exe
+C:\Users\necip\VisualStudioProjeler\AsalKontrol\AsalKontrol\bin\Debug\AsalKontrol.pdb
+C:\Users\necip\VisualStudioProjeler\AsalKontrol\AsalKontrol\obj\Debug\AsalKontrol.csproj.AssemblyReference.cache
+C:\Users\necip\VisualStudioProjeler\AsalKontrol\AsalKontrol\obj\Debug\AsalKontrol.csproj.SuggestedBindingRedirects.cache
+C:\Users\necip\VisualStudioProjeler\AsalKontrol\AsalKontrol\obj\Debug\AsalKontrol.Form1.resources
+C:\Users\necip\VisualStudioProjeler\AsalKontrol\AsalKontrol\obj\Debug\AsalKontrol.Properties.Resources.resources
+C:\Users\necip\VisualStudioProjeler\AsalKontrol\AsalKontrol\obj\Debug\AsalKontrol.csproj.GenerateResource.cache
+C:\Users\necip\VisualStudioProjeler\AsalKontrol\AsalKontrol\obj\Debug\AsalKontrol.csproj.CoreCompileInputs.cache
+C:\Users\necip\VisualStudioProjeler\AsalKontrol\AsalKontrol\obj\Debug\AsalKontrol.exe
+C:\Users\necip\VisualStudioProjeler\AsalKontrol\AsalKontrol\obj\Debug\AsalKontrol.pdb
